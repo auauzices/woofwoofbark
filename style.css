@@ -1,0 +1,58 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(253, 233, 237);
+    color: rgb(194, 119, 132);
+    margin:0;
+    padding:0;
+}
+
+.cabecalho {
+    display: flex;
+    background-color: rgb(250, 196, 207);
+    color: rgb(248, 154, 168);
+    text-align: center;
+    padding: 1em 0;
+}
+h2 {
+    color: rgb(99, 56, 56);
+}
+.section {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+} 
+.galeria img {
+    margin: 10px;
+    border-radius: 8px; 
+}
+.footer{
+    text-align: center;
+    padding: 1 em0;
+    background-color: rgb(255, 196, 216);
+    color: rgb(105, 62, 62);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.hobbies {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+
+}
+
+.galeria {
+
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    margin: 20px;
+    padding: 20px;
+}
+
+.imagem {width: 320px ; }
